@@ -22,4 +22,10 @@ Automatic event annotation could enable event data from currently unexplored com
 
 October 13, 2022
 
+This is a Code Competition that will run in two stages. 
+
+During the **training stage**, your submission will only be run against test data for the public leaderboard. 
+
+The test data for the private leaderboard, however, will comprise games occuring after the training period closes, the **forecasting stage**.
+
 -----
