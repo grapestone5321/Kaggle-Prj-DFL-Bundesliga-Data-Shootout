@@ -29,3 +29,10 @@ During the **training stage**, your submission will only be run against test dat
 The test data for the private leaderboard, however, will comprise games occuring after the training period closes, the **forecasting stage**.
 
 -----
+
+##  Evaluation
+
+Submissions are evaluated on the average precision of detected events, averaged over timestamp error thresholds, averaged over event classes.
+
+
+-----
